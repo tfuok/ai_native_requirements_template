@@ -5,7 +5,7 @@
 | Field | Value |
 |---|---|
 | Status | Draft / In Review / Approved / Ready for Dev / Done / Changed / Deprecated |
-| Priority | Must / Should / Could / Won't |
+| Priority | Critical / High / Medium / Low |
 | Type | Feature / Rule / Change / Bug / Enhancement |
 | Module |  |
 | Owner |  |
